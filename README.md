@@ -6,4 +6,4 @@ This is a javascript focused project done during the following course:
 > by Angela Yu \
 > Udemy.com
 
-View the project here: https://sufiansuni.github.io/Drumkit-Javascript/
+View the project here: https://sufiansuni.github.io/DrumKit-Javascript/
